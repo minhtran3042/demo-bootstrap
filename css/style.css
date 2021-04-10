@@ -1,0 +1,219 @@
+/* header */
+header .top-first{
+    background-color: #f5f7fa;
+}
+.top-first .container{
+    padding-top: 15px;
+}
+.top-first li a{
+    text-decoration: none;
+    height: 20px;
+    width: 20px;
+}
+.top-last{
+    padding-top: 10px;
+}
+.top-last a img{
+    width: 20px;
+    padding-bottom: 5px;
+}
+.top-last #txtsearch{
+    border-radius: 10px;
+}
+/* content */
+content .slide {
+    background-image: url(../images/image1.png);
+    height: 870px;
+    margin-top: 15px;
+    padding-top: 250px;
+}
+.slide .content-top h1{
+    font-family: 'Soure San Pro',  sans-serif;
+    font-size: 90px;
+    line-height: 80px;
+    color: white;
+}
+.slide .content-top h2{
+    font-family: 'Soure San Pro',  sans-serif;
+    color:#a3b1bf;
+    font-size: 20px;
+    line-height: 30px;
+}
+.slide .content-top button{
+    background-color: #00bc9c;
+    height: 50px;
+    width: 200px;
+    margin-top: 100px;
+    border-radius: 5px;
+    border: none
+}
+.slide .content-top button a{
+    font-family: 'Soure San Pro',  sans-serif;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+.main-top{
+    margin-top: 100px;
+}
+.main-top h3{
+    font-family: 'Soure San Pro',  sans-serif;
+    font-weight: bold;
+    color: #506a85;
+    line-height: 60px;
+    font-size: 40px;
+}
+.main-top h5{
+    font-family: 'Soure San Pro', sans-serif;
+    color: #73879c;
+    font-size: 20px;
+    line-height: 30px;
+}
+.main-top .object{
+    margin-top: 40px;
+}
+.main-top h4{
+    font-family: 'Soure San Pro',  sans-serif;
+    font-weight: bold;
+    color: #506a85;
+    line-height: 50px;
+}
+.main-top p{
+    font-family: 'Soure San Pro', sans-serif;
+    color: #7e90a3;
+}
+.main-middle{
+    background-color: #f2f5f7;
+    margin-top: 150px;
+    height: 1100px;
+}
+.main-middle-top h3{
+    font-family: 'Soure San Pro',  sans-serif;
+    font-weight: bold;
+    color: #506a85;
+    padding-top: 100px;
+    line-height: 50px;
+    font-size: 40px;
+}
+.main-middle-top p{
+    color: #73879c;
+    font-size: 20px;
+}
+.main-middle-bot img{
+    margin-top: 40px;
+    color: white;
+}
+.main-middle-bot h4{
+    color: #5f768e;
+    font-family: 'Soure San Pro',  sans-serif;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.main-middle-bot p{
+    color: #5f768e;
+    font-family: 'Soure San Pro',  sans-serif;
+    margin-top: 15px;
+}
+.main-last{
+    height: 450px;
+}
+.main-last h3{
+    font-family: 'Soure San Pro',  sans-serif;
+    font-weight: bold;
+    color: #506a85;
+    padding-top: 100px;
+    line-height: 50px;
+    font-size: 40px;    
+}
+.main-last p{
+    color: #5f768e;
+    font-family: 'Soure San Pro',  sans-serif;
+    margin-top: 15px;
+    line-height: 30px;
+    font-size: 20px;
+}
+.main-last button{
+    background-color: #00bc9c;
+    height: 50px;
+    width: 200px;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: none
+}
+.main-last button a{
+    font-family: 'Soure San Pro',  sans-serif;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+/* footer */
+footer{
+    background-color: #2f4052;
+    height: 350px;
+}
+footer h3{
+    font-family: 'Soure San Pro',  sans-serif;
+    font-weight:bold;
+    font-size: 25px;
+    margin-top: 60px
+}
+footer p, a{
+    font-family: 'Soure San Pro',  sans-serif;
+    line-height:20px;
+    color: #a3b1bf;
+}
+footer h1,h3{
+    color: white;
+}
+footer ul li a:hover{
+    text-decoration:none;
+}
+footer form{
+    position: relative;
+}
+footer form input{
+    width: 300px;
+    height: 45px;
+    background-color: #4e5c6c;
+    color: #707d89;
+    border: none;
+    border-radius: 5px;
+}
+footer input:focus{
+    outline: none;
+}
+footer #submit{
+    position: absolute;
+    background-color: #00bc9c;
+    color: white;
+    font-weight: bold;
+    top: 5px;
+    left: 195px;
+    height: 35px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+}
+.bottom{
+    background-color: #283645;
+    position: relative;
+}
+.bottom .end{
+    padding-top: 20px;
+}
+.bottom  p, li a{
+    font-family: 'Soure San Pro',  sans-serif;
+    color: #707e8c;
+}
+.bottom .top-up{
+    position: absolute;
+    border: none;
+    border-radius: 5px;
+    background-color: #3c5065;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    padding-top: 8px;
+    bottom: 10px;
+    left: 1600px;
+}
